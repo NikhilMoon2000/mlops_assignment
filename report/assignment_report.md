@@ -2,8 +2,8 @@
 
 **Course:** Machine Learning Operations (MLOps) AIMLCZG523  
 **Assignment:** 01  
-**Student:** [Add your name and student ID]  
-**Repository:** [Add your GitHub repository URL]  
+**Student:** 2025ae05201@wilp.bits-pilani.ac.in
+**Repository:** https://github.com/NikhilMoon2000/mlops_assignment.git 
 **Report date:** 20 October 2026
 
 # 1. Executive Summary
