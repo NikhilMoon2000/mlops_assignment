@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/nikhilmoon/Documents/BITS/3rd sem/Mlops/assignment/mlruns/926883701392432529/76277aaf6d5a44b8ad5fb71fc6f96200/artifacts
+end_time: 1792515099671
+entry_point_name: ''
+experiment_id: '926883701392432529'
+lifecycle_stage: active
+run_id: 76277aaf6d5a44b8ad5fb71fc6f96200
+run_name: random_forest
+run_uuid: 76277aaf6d5a44b8ad5fb71fc6f96200
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1792515096994
+status: 3
+tags: []
+user_id: nikhilmoon

@@ -1,0 +1,33 @@
+{
+  "model_name": "logistic_regression",
+  "run_id": "0078e2d8f201498aa57f27aa13389764",
+  "features": [
+    "age",
+    "trestbps",
+    "chol",
+    "thalach",
+    "oldpeak",
+    "sex",
+    "cp",
+    "fbs",
+    "restecg",
+    "exang",
+    "slope",
+    "ca",
+    "thal"
+  ],
+  "cv_metrics": {
+    "accuracy": 0.8551870748299321,
+    "precision": 0.8730744935655421,
+    "recall": 0.8098814229249012,
+    "roc_auc": 0.9021283064761325
+  },
+  "test_metrics": {
+    "accuracy": 0.8852459016393442,
+    "precision": 0.8387096774193549,
+    "recall": 0.9285714285714286,
+    "roc_auc": 0.9664502164502164
+  },
+  "target_definition": "1 = target > 0; 0 = target == 0",
+  "dataset": "UCI Heart Disease, processed Cleveland subset"
+}

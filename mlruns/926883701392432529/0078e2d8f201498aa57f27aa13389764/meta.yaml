@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/nikhilmoon/Documents/BITS/3rd sem/Mlops/assignment/mlruns/926883701392432529/0078e2d8f201498aa57f27aa13389764/artifacts
+end_time: 1792516175552
+entry_point_name: ''
+experiment_id: '926883701392432529'
+lifecycle_stage: active
+run_id: 0078e2d8f201498aa57f27aa13389764
+run_name: logistic_regression
+run_uuid: 0078e2d8f201498aa57f27aa13389764
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1792516173606
+status: 3
+tags: []
+user_id: nikhilmoon
